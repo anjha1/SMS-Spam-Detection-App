@@ -11,7 +11,7 @@ An easy-to-use **SMS Spam Detection App** that classifies messages as **Spam** o
 ---
 
 ## Demo  
-[Insert screenshot or link to the live app here](https://sms-spam-detection-app.onrender.com/)]  
+[Link to the live app here](https://sms-spam-detection-app.onrender.com/)]  
 
 ---
 
